@@ -31,4 +31,4 @@ My interests sit at the intersection of **machine learning**, **mathematical mod
 
 This site is a personal log of what I read, build, and learn along the way: a mix of technical notes, project writeups, and reflections on the path from engineering student to ML researcher. Every now and then I'll also share thoughts and personal interests outside of academia.
 
-Feel free to reach out via [email](mailto:lorenzo.angeli001@gmail.com) or connect on [GitHub](https://github.com/LorenzoAngeli) / [LinkedIn](#).
+Feel free to reach out via [email](mailto:lorenzo.angeli001@gmail.com) or connect on [GitHub](https://github.com/LorenzoAngeli) / [LinkedIn](https://www.linkedin.com/in/lorenzo-angeli-0020b0327/).
