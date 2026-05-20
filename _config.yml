@@ -11,7 +11,7 @@ contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Incoming MSc student in Mathematical Engineering at Politecnico di Milano. BSc in Engineering Management from Università degli Studi di Perugia. Interested in machine learning, optimization, and scientific computing.
 footer_text: >
-  © Lorenzo Angeli. Built with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and the <a href="https://github.com/alshedivat/al-folio" target="_blank">al-folio</a> theme.
+  © Lorenzo Angeli
 keywords: lorenzo angeli, machine learning, mathematical engineering, polimi, phd
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
